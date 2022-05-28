@@ -27,12 +27,6 @@ studilayは各自の作りたいものを共に作っていくことを目指す
 
 ## Naming
 
-* kutil-...
-    * utilities
-* kutil-java-...
-    * java utilities
-* kutil-spigot-...
-    * spigot utilities
-
 * wiki-...
     * wiki
+
