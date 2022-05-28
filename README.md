@@ -28,11 +28,11 @@ studilayは各自の作りたいものを共に作っていくことを目指す
 ## Naming
 
 * kutil-...
-  * utilities
+    * utilities
 * kutil-java-...
-  * java utilities
+    * java utilities
 * kutil-spigot-...
-  * spigot utilities
+    * spigot utilities
 
 * wiki-...
-  * wiki
+    * wiki
