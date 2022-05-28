@@ -13,14 +13,6 @@
 ## Repositories
 
 ### Naming
-
-* kutil-...
-    * utilities
-* kutil-java-...
-    * java utilities
-* kutil-spigot-...
-    * spigot utilities
-
 * wiki-...
     * wiki
 
