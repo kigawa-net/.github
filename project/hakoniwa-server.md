@@ -1,4 +1,4 @@
-# studilay-bot
+# hakoniwa-server
 
 ## About
 
