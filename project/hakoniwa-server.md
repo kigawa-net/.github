@@ -1,4 +1,4 @@
-m# hakoniwa-server
+# hakoniwa-server
 
 ## About
 
