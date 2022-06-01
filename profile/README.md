@@ -6,7 +6,7 @@
 
 ## About
 
-studilayは各自の作りたいものを共に作っていくことを目指すサーバーです。
+studilayは各自の作りたいものを共に作っていくことを目指すコミュニティです。
 現在は主にマイクラサーバーを作っています。
 
 ## Admin
@@ -14,7 +14,7 @@ studilayは各自の作りたいものを共に作っていくことを目指す
 * [kigawa](https://github.com/kigawa01)
 
 ## Projects
-
+* [hakoniwa-server](/project/hakoniwa-server.md)
 ## Suggest Project
 
 1. その企画のブランチを作成します。
