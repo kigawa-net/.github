@@ -1,4 +1,4 @@
-# hakoniwa-server
+# 箱庭サーバー
 
 ## About
 
