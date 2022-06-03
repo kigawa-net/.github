@@ -66,3 +66,6 @@
     * 過去に作成した建築を用意していただきます
 
 ## Link
+
+* [Mineidea](https://mineidea.net/projects/9125797146)
+* [MineAdd](https://mineadd.net/items/1654269041981x877038155938660400)
