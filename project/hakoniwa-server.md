@@ -44,7 +44,9 @@
 * hakoniwa-economy
   * 経済プラグイン
 * hakoniwa-inv
+  * インベントリの管理
 * hakoniwa-resourceworld
+  * 資源ワールドの管理
 
 ## Admin
 
