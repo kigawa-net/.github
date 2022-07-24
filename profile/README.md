@@ -17,7 +17,7 @@ studilayは各自の作りたいものを共に作っていくことを目指す
 
 ## Projects
 
-* [hakoniwa-server](/project/hakoniwa-server.md)
+* [hakoniwa-server](/project/hakoniwa-server/)
 
 ## Suggest Project
 
